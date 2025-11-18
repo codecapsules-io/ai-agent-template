@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://codecapsules.io/">
+    <img src="https://cdn.prod.website-files.com/67ceb2cb686dbb71573b4e01/67cebcb49209deccb991799d_Code%20Capsules%20-%20Logo%201.svg" alt="Code Capsules Logo" width="400"/>
+  </a>
+</div>
+<br/>
+
 # Code Capsules Base Agent
 
 An Express API that exposes a Base AI Agent. Built with TypeScript and LangChain.
